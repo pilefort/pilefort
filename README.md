@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ## 最近書いた記事
+### Nuxt3 + piniaでサブウィンドウ間のstoreを共有する方法
+https://zenn.dev/pilefort/articles/42f6a6729f600e
+
 ### Chrome102で追加された 「Bounds must be at least 50% within visible screen space」 の解決法
 https://zenn.dev/pilefort/articles/c5bd0c474c66e4
 
